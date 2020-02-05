@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a933018-f09d-4bbb-a7f6-70b2cbc93556" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Erlang Module" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XMeZK5L0SQuxUPrcaMO8xareZs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Erlang" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Erlang External Tools" />
+  </component>
+  <component name="RunManager" selected="Erlang Console.Rudy_Console">
+    <configuration type="RebarRunConfigurationType" factoryName="Erlang Rebar" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="command" value="" />
+      <option name="skipDependencies" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HTTPParser.parse_request" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Rudy" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="HTTPParser parse_request" />
+      <option name="params" value="" />
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server.start" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Rudy" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="Server start" />
+      <option name="params" value="8080" />
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rudy_Console" type="ErlangConsoleRunConfigurationType" factoryName="Erlang Console" singleton="false" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Rudy" />
+      <option name="allowRunningInParallel" value="true" />
+      <option name="consoleArgs" value="" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Erlang Application.HTTPParser.parse_request" />
+      <item itemvalue="Erlang Application.Server.start" />
+      <item itemvalue="Erlang Console.Rudy_Console" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Erlang Application.Server.start" />
+        <item itemvalue="Erlang Application.HTTPParser.parse_request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/SBT/sbt/id2203project20scala-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a933018-f09d-4bbb-a7f6-70b2cbc93556" name="Default Changelist" comment="" />
+      <created>1580860444827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580860444827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="155" key="#HTTPParser.parse_request" timestamp="1580861344350">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="463" y="155" key="#HTTPParser.parse_request/0.0.1470.864@0.0.1470.864" timestamp="1580861344350" />
+    <state x="328" y="92" key="#Project_Structure" timestamp="1580860472720">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="328" y="92" key="#Project_Structure/0.0.1470.864@0.0.1470.864" timestamp="1580860472720" />
+    <state x="653" y="125" key="#Server.start" timestamp="1580861470253">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="653" y="125" key="#Server.start/0.0.1470.864@0.0.1470.864" timestamp="1580861470253" />
+    <state x="380" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580902112671">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="380" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1470.864@0.0.1470.864" timestamp="1580902112671" />
+    <state x="487" y="120" key="FileChooserDialogImpl" timestamp="1580891132124">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="487" y="120" key="FileChooserDialogImpl/0.0.1470.864@0.0.1470.864" timestamp="1580891132124" />
+    <state width="1427" height="175" key="GridCell.Tab.0.bottom" timestamp="1580922743633">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="175" key="GridCell.Tab.0.bottom/0.0.1470.864@0.0.1470.864" timestamp="1580922743633" />
+    <state width="1427" height="175" key="GridCell.Tab.0.center" timestamp="1580922743633">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="175" key="GridCell.Tab.0.center/0.0.1470.864@0.0.1470.864" timestamp="1580922743633" />
+    <state width="1427" height="175" key="GridCell.Tab.0.left" timestamp="1580922743633">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="175" key="GridCell.Tab.0.left/0.0.1470.864@0.0.1470.864" timestamp="1580922743633" />
+    <state width="1427" height="175" key="GridCell.Tab.0.right" timestamp="1580922743633">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="175" key="GridCell.Tab.0.right/0.0.1470.864@0.0.1470.864" timestamp="1580922743633" />
+    <state x="216" y="8" key="SettingsEditor" timestamp="1580895072947">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="216" y="8" key="SettingsEditor/0.0.1470.864@0.0.1470.864" timestamp="1580895072947" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580900553890">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1470.864@0.0.1470.864" timestamp="1580900553890" />
+  </component>
+</project>
